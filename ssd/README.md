@@ -38,11 +38,5 @@
 * 单GPU训练或CPU，直接使用train_ssd300.py训练脚本
 * 若要使用多GPU训练，使用 "python -m torch.distributed.launch --nproc_per_node=8 --use_env train_multi_GPU.py" 指令,nproc_per_node参数为使用GPU数量
 
-## 如果对SSD算法原理不是很理解可参考我的bilibili
-* https://www.bilibili.com/video/BV1fT4y1L7Gi
-
-## 进一步了解该项目，以及对SSD算法代码的分析可参考我的bilibili
-* https://www.bilibili.com/video/BV1vK411H771/
-
 ## Resnet50 + SSD算法框架图
 ![Resnet50 SSD](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/raw/master/pytorch_object_detection/ssd/res50_ssd.png) 
