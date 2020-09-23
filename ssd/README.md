@@ -30,7 +30,6 @@
 ## 数据集，本例程使用的是PASCAL VOC2012数据集(下载后放入项目当前文件夹中)
 * Pascal VOC2012 train/val数据集下载地址：http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 * Pascal VOC2007 test数据集请参考：http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar
-* 如果不了解数据集或者想使用自己的数据集进行训练，请参考我的bilibili：https://b23.tv/F1kSCK
 
 ## 训练方法
 * 确保提前准备好数据集
